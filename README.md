@@ -1,6 +1,7 @@
 # Data_Visualizaiton_Paris_Metro
 Annual traffic by metro station in Paris from 2015 to 2020
 - JavaScript
+- HTML
 - D3
 - Leaflet
 
